@@ -29,3 +29,13 @@ tags:
 
 
 ![falsifiction-circle](../assets/images/falsifiction-circle.png)
+
+有一些很好的去了解和认识宏观经济学书籍的dataset：
+
+- IMF Article IV https://www.imf.org/en/Publications/CR/Issues/2022/01/26/Peoples-Republic-of-China-2021-Article-IV-Consultation-Press-Release-Staff-Report-and-512248, 这是一份年报型数据
+- Understanding China's Economic Statistics – Second Edition，介绍经济指标如何统计以及他们的重要性
+- 解读中国统计指标：概念，方法和含义（第二版）中金，字典
+
+很多统计局提供的关键指标不能反映你想要的特性，比如投资完成额就是一个不太有用的指标
+
+![vip split](../assets/images/vip-split.png)
