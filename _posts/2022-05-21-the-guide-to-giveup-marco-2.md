@@ -1,5 +1,6 @@
 ---
 title: "宏观经济放弃手册（二）"
+classes: wide
 date: 2022-05-21
 categories:
   - blog
