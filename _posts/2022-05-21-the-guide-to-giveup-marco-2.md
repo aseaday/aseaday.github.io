@@ -2,7 +2,6 @@
 title: "宏观研究放弃手册（二）"
 classes: wide
 date: 2022-05-21
-usemathjax: true
 categories:
   - blog
 tags:
