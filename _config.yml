@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: null of null
+title: Nullism
 email: aseaday@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  把毛泽东思想学到手
+  做一个不为五斗米折腰的知识分子
 github_username: aseaday
 minimal_mistakes_skin: default
 
