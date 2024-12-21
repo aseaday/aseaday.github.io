@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 核聚变么
-subtitle: ''
-description: ''
-keywords: 经济学 货币理论 原子物理 核电
+title: 一个想把太阳放进瓶子的人的博客 | A Blog of a Nuclear Fusion Researcher
+subtitle: '记录对很多事情的思考 | Memories of How The Universe Works'
+description: '记录对很多事情的思考 | Memories of How The Universe Works'
+keywords: Nuclear Physics, Economics, Mathematics, Computer Science
 author: nullday
-language: zh-CN
+language: zh-CN, en-US
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -167,3 +167,10 @@ minify:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# Sitemap
+sitemap:
+  path: sitemap.xml
+  rel: false
+  tags: false
+  categories: false
